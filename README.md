@@ -3,6 +3,7 @@ App provides filtering, marking prospects as contacted, sorting options, + scann
 
 Featuring:  
 Notifications,  
+Edit mode activity tracking,  
 .environmentObject()( enabling seamless access to prospect data across different views within the app),  
 TabView,  
 Package CodeScaner(for QR codeS)
